@@ -11,7 +11,7 @@ If you affeted by __thanos.py__ then download __ironman.bat__
 
 # How to use
 1. Extract __ironman-master.zip__
-2. Copy __ironman.bat__ to __C:\Users\%USERNAME%\Desktop\__
+2. Copy __ironman.bat__ to C:\Users\%USERNAME%\Desktop\
 3. Run __ironman.bat__
 
 <p align="center"><img src="https://i.ytimg.com/vi/dL17CoVH8ak/hqdefault.jpg"></p>
